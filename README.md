@@ -44,4 +44,4 @@ A few highlights from `analytical_queries.sql`:
 ## Author
 
 **Christenvie Nlolo**
-[GitHub](https://github.com/christenvie23) · [LinkedIn](https://linkedin.com/in/christenvie-nlolo)
+[GitHub](https://github.com/christenvie23) · [LinkedIn](https://www.linkedin.com/in/christenvie-nlolo-204b2b304/)
